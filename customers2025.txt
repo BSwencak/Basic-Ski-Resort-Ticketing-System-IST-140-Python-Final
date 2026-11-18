@@ -1,0 +1,10 @@
+js3, john smith, johnsmith@psu.edu, 154895678, 0, N
+sh6, sarah hansen, sarah6@yahoo.com, 785491358485, 0, Y
+lma9, laura adams, lma824@drexel.edu, 5985215254, 8, N
+jackj53, jack johnson, jj52@gmail.com, 5789965223, 2, N
+gergin, george gergin, gergin@hotmail.aol, 58742166985, 3, Y
+car23, carol levin, car23@psu.edu, 26748563215, 12, N
+bri90, brian carolan, bri90@gmail.com, 56989625654, 4, u
+marcc0, marc carolan, marcc0@gmail.com, 97863159865, 5, Y
+laru12, lars ulrich, laru12@metallica.com, 4555748523, 0, Y
+kirky24, kirk hammettt, kirky24@metallica.com, 69845156621, 0, Y
